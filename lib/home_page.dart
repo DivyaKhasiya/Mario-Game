@@ -2,10 +2,10 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:mariotutorial/buttons.dart';
-import 'package:mariotutorial/jumpingmario.dart';
-import 'package:mariotutorial/mario_g.dart';
+import 'package:mariotutorial/Movemant/jumpingmario.dart';
+import 'package:mariotutorial/Movemant/marioimage.dart';
 
-import 'mushroom.dart';
+import 'Movemant/mushroom.dart';
 
 class HomePage extends StatefulWidget {
   @override
